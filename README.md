@@ -11,6 +11,7 @@ how to run this above chat app
  #  $chat-client   go run filename.go filename1.go filename2.go
  # so we need to run to client for 2 user 
  #  $chat-client   go run filename.go filename1.go filename2.go
+ # output sample Screen Shot 2018-07-28 at 5.38.40 PM.png
  
  
   
